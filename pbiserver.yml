@@ -1,0 +1,6 @@
+PbiServer:
+        Name: 'PowerBI Server'
+        Description: 'Server PowerBI (test)'
+        Organization: 'Giorgio Turrini'
+        Nation: 'Italy'
+        State: 'ER'
