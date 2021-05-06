@@ -1,3 +1,7 @@
 organization: 'Giorgio Turrini'
 state: 'E/R'
 nation: 'Italy'
+
+ConnectionStrings:
+        - PieroProdDb: 'Server=pierosql;Database=piero;Integrated Security=True'
+        - SixPowerBIAppDb: 'Server=siaerdb10;Database=pincopalla;Integrated Security=True'
